@@ -1,0 +1,6 @@
+{
+  "name": "ChronoMint — Đồng Hồ Đếm Ngược Tối Giản",
+  "description": "Đồng hồ hẹn giờ đếm ngược tối giản với mặt đồng hồ trực quan, chế độ hiển thị số lớn chính giữa màn hình, mốc chọn nhanh 5/15/30 phút, tùy chỉnh thời gian và chuông báo âm thanh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
